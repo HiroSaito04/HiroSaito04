@@ -1,12 +1,8 @@
 {
   "username": "HiroSaito04",
   "source": "GitHub public contributions",
-  "updated": "2026-11-27",
+  "updated": "2026-11-28",
   "days": [
-    {
-      "date": "2025-11-26",
-      "level": 0
-    },
     {
       "date": "2025-11-27",
       "level": 0
@@ -1469,6 +1465,10 @@
     },
     {
       "date": "2026-11-27",
+      "level": 0
+    },
+    {
+      "date": "2026-11-28",
       "level": 0
     }
   ]
